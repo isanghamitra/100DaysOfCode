@@ -32,8 +32,8 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 |Day 16|June 14, 2020| 
 |Day 17|June 15, 2020| 
 ||| Organized event **E=mc^2** |
-|Day 18|June 16, 2020| Started Internship at **Sapio Analyttica** | [View offer letter](https://drive.google.com/file/d/1M5XzbfLCQDBcg41Ts0RxsrvYqtpoWWP4/view?usp=sharing)
-|Day 19|June 17, 2020|  
+|Day 18|June 16, 2020| Started Internship at **Sapio Analytics** | [View offer letter](https://drive.google.com/file/d/1M5XzbfLCQDBcg41Ts0RxsrvYqtpoWWP4/view?usp=sharing)
+|Day 19|June 17, 2020| Organized and was the speaker for **Progate** event **Frontend Fundamentals 1** |
 |Day 20|June 18, 2020| 
 |Day 21|June 19, 2020| 
 |Day 22|June 20, 2020| 
@@ -46,7 +46,6 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 |Day 29|June 27, 2020| 
 |Day 30|June 28, 2020| Learned R language basics |
 |Day 31|June 29, 2020| Learned Data Structures using R language |
-||| Started Internship at **TechTable**| [View offer letter](https://drive.google.com/file/d/1j2qQr_LkUzZRVl5LPaVPcFT6E8KDmSRa/view?usp=sharing) 
 |Day 32|June 30, 2020| Specialized Data Processing in R |
 ||| Control flow and iterations in R |
 |Day 33|July 1, 2020| Completed R project **Investigating COVID 19 Virus Trends** | 
@@ -56,12 +55,12 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 |Day 37|July 5, 2020| Basic Data cleaning using R |
 |Day 38|July 6, 2020| Advanced Data cleaning using R |
 |Day 39|July 7, 2020| Completed project **NYC Schools Perception** |
-|Day 40|July 8, 2020| SQL Basics Tutorial| [Visit Website](https://app.dataquest.io/m/252/introduction-to-sql/1/why-sql-is-important-to-learn)
-|Day 41|July 9, 2020| Group summary statistics| [Visit Website](https://app.dataquest.io/m/254/group-summary-statistics/1/introduction)
+|Day 40|July 8, 2020| SQL Basics Tutorial| 
+|Day 41|July 9, 2020| Group summary statistics| 
 |Day 42|July 10, 2020| Completed SQL Project **Analyzing CIA Factbook Data using SQL** |
-|Day 43|July 11, 2020| Build and Organize complex Queries Tutorial| [Visit Website](https://app.dataquest.io/m/373/building-and-organizing-complex-queries/1/introduction)
+|Day 43|July 11, 2020| Build and Organize complex Queries Tutorial| 
 |Day 44|July 12, 2020| Completed SQL Project **Answering Business Questions using SQL** |
-|Day 45|July 13, 2020| Normalization Tutorial | [Visit Website](https://app.dataquest.io/m/375/table-relations-and-normalization/1/the-sqlite-shell)
+|Day 45|July 13, 2020| Normalization Tutorial |
 |Day 46|July 14, 2020| Completed SQL Project **Creating and Designing a Database** |
 |Day 47|July 15, 2020| **Revised R basics** |
 ||| Started internship at **3G Institute of Policy Research and Studies (3G IRPS)** |[View offer letter](https://drive.google.com/file/d/1UWCi-d3SADCqMDGYiVpF3_MFgnvMeuIV/view?usp=sharing)
@@ -79,3 +78,17 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 |Day 57|July 25, 2020|
 |Day 58|July 26, 2020|
 |Day 59|July 27, 2020|
+
+
+# It's been almost 2 months since my #100DaysOfCode journey has started. I have decided to focus on competitive programming a bit, since my placement season is approaching.
+
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Completed :page_facing_up:**| **Reference**|
+|------|-----------------|--------------------|---------------------|
+|Day 60|July 28, 2020|
+|day 61|July 29, 2020|
+|Day 62|July 30, 2020| Became content writer at **EON Marketing and Media** |
+
+
+
+
+
