@@ -67,14 +67,14 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 ||| Started internship at **3G Institute of Policy Research and Studies (3G IRPS)** |[View offer letter](https://drive.google.com/file/d/1UWCi-d3SADCqMDGYiVpF3_MFgnvMeuIV/view?usp=sharing)
 |Day 48|July 16, 2020| **Revised SQL basics and intermediate** |
 |Day 49|July 17, 2020|  _No Code Day_ |
-|Day 50|July 18, 2020| Learned Golang(GO) Language |
-||| Completed Golang project **Random Thoughts Generator** |
+|Day 50|July 18, 2020| Learned basics of Golang(GO) Language |
+||| Completed Golang project **Random Fortune Generator** |
 |Day 51|July 19, 2020| **Revised the concepts of Golang** |
 |Day 52|July 20, 2020|  
 |Day 53|July 21, 2020| 
 |Day 54|July 22, 2020| Got selected for **Build with Let's Upgrade**| [Visit Website](letsupgrade.in)|
 ||| Started working on AI Powered Bots. Tech stacks included Watson Studio, Node RED and IBM Cloud |
-|Day 55|July 23, 2020| Made some changes in **Random Thoughts Generator** |
+|Day 55|July 23, 2020| Made some changes in **Random Fortune Generator** |
 |Day 56|July 24, 2020|
 |Day 57|July 25, 2020|
 |Day 58|July 26, 2020|
