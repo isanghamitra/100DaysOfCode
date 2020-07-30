@@ -1,4 +1,4 @@
-# My #100DaysOfCode Timeline
+# My #100DaysOfCode Timeline 1
 
 What could be a better start to the week than starting out with a challenge that would push me to learn daily and not lose track. I am starting with #100daysofcode challenge. I will code for at least an hour for the next 100 days!
 
@@ -80,7 +80,9 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 |Day 59|July 27, 2020|
 
 
-# It's been almost 2 months since my #100DaysOfCode journey has started. I have decided to focus on competitive programming a bit, since my placement season is approaching.
+# My #100DaysOfCode Timeline 2
+
+It's been over 2 months since this journey has started, and now I have decided to focus a bit more on my competitive programming skills.
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Completed :page_facing_up:**| **Reference**|
 |------|-----------------|--------------------|---------------------|
