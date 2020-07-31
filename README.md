@@ -55,25 +55,25 @@ Also, to make it visually appealing, I am putting together my learnings in Tabul
 |Day 37|July 5, 2020| Basic Data cleaning using R |
 |Day 38|July 6, 2020| Advanced Data cleaning using R |
 |Day 39|July 7, 2020| Completed project **NYC Schools Perception** |
-|Day 40|July 8, 2020| SQL Basics Tutorial| 
-|Day 41|July 9, 2020| Group summary statistics| 
-|Day 42|July 10, 2020| Completed SQL Project **Analyzing CIA Factbook Data using SQL** |
-|Day 43|July 11, 2020| Build and Organize complex Queries Tutorial| 
-|Day 44|July 12, 2020| Completed SQL Project **Answering Business Questions using SQL** |
-|Day 45|July 13, 2020| Normalization Tutorial |
-|Day 46|July 14, 2020| Completed SQL Project **Creating and Designing a Database** |
+|Day 40|July 8, 2020| Learned SQL Basics| 
+|Day 41|July 9, 2020| Learned Filtering and Functions in SQL| 
+|Day 42|July 10, 2020| Learned Subqueries in SQL |
+|Day 43|July 11, 2020| Learned Building and Organizing complex Queries| 
+|Day 44|July 12, 2020| Learned about JOINS in SQL |
+|Day 45|July 13, 2020| Learned about TABLE Functions in SQL |
+|Day 46|July 14, 2020| 
 |Day 47|July 15, 2020| **Revised R basics** |
 ||| Started internship at **3G Institute of Policy Research and Studies (3G IRPS)** |[View offer letter](https://drive.google.com/file/d/1UWCi-d3SADCqMDGYiVpF3_MFgnvMeuIV/view?usp=sharing)
-|Day 48|July 16, 2020| **Revised SQL basics and intermediate** |
-|Day 49|July 17, 2020|  _No Code Day_ |
+|Day 48|July 16, 2020| _No Code Day_ |
+|Day 49|July 17, 2020| _No Code Day_ |
 |Day 50|July 18, 2020| Learned basics of Golang(GO) Language |
-||| Completed Golang project **Random Fortune Generator** |
+||| Completed a basic Golang project **Random Fortune Generator** |
 |Day 51|July 19, 2020| **Revised the concepts of Golang** |
 |Day 52|July 20, 2020|  
 |Day 53|July 21, 2020| 
 |Day 54|July 22, 2020| Got selected for **Build with Let's Upgrade**| [Visit Website](letsupgrade.in)|
 ||| Started working on AI Powered Bots. Tech stacks included Watson Studio, Node RED and IBM Cloud |
-|Day 55|July 23, 2020| Made some changes in **Random Fortune Generator** |
+|Day 55|July 23, 2020| Added some functionalities in **Random Fortune Generator** |
 |Day 56|July 24, 2020|
 |Day 57|July 25, 2020|
 |Day 58|July 26, 2020|
@@ -88,7 +88,7 @@ It's been over 2 months since this journey has started, and now I have decided t
 |------|-----------------|--------------------|---------------------|
 |Day 60|July 28, 2020|
 |day 61|July 29, 2020|
-|Day 62|July 30, 2020| Became content writer at **EON Marketing and Media** |
+|Day 62|July 30, 2020| 
 
 
 
